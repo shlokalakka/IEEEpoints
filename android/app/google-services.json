@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222341622789",
+    "firebase_url": "https://ieee-point.firebaseio.com",
+    "project_id": "ieee-point",
+    "storage_bucket": "ieee-point.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222341622789:android:6759ab4e73db7dd1ec806c",
+        "android_client_info": {
+          "package_name": "com.ieee.ieeepoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222341622789-49m9t8t2i0c24a3u5he3pulh7npqepcg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgi1w_qeLeVb430rRQPTTYGRqeXz5cWNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222341622789-49m9t8t2i0c24a3u5he3pulh7npqepcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
